@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-026nfs.yoursingles.online/sitemap.xml
